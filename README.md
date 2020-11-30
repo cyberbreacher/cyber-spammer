@@ -1,1 +1,1 @@
-# cyber-spammer
+# Cyber Spammer
