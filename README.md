@@ -2,7 +2,7 @@
 
 Cyber Spammer is a python tool that continuously spams mail to the victim's mail inbox. Require at least five fake accounts to start. Works for both Termux and Linux.
 
-# DISCLAIMER
+## DISCLAIMER
 
 our program is for EDUCATIONAL PURPOSES ONLY. Don't use this for illegal activities. You are the only responsable for your actions!
 
